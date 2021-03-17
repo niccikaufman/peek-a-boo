@@ -4,9 +4,21 @@
 
 .clickable {
   cursor: pointer;
-  color: green;
+  color: purple;
 }
 
 .clickable:hover {
   text-decoration: underline;
+}
+
+.green-background {
+  background-color: green;
+}
+
+.blue-background {
+  background-color: blue;
+}
+
+.red-background {
+  background-color: red;
 }
